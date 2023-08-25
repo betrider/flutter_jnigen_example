@@ -1,3 +1,5 @@
 # ninja log v5
 0	60	1692943051	CMakeFiles/battery_utils.dir/battery_utils/battery_utils.c.o	338b6b8ad9f1b266
 61	112	1692943051	/Users/swkim/flutter Project/flutter_jnigen_example/build/app/intermediates/cxx/Debug/a4d5i414/obj/armeabi-v7a/libbattery_utils.so	f2651b91d730ff5e
+0	66	1692944521	CMakeFiles/battery_utils.dir/battery_utils/battery_utils.c.o	338b6b8ad9f1b266
+66	119	1692944521	/Users/swkim/flutter Project/flutter_jnigen_example/build/app/intermediates/cxx/Debug/a4d5i414/obj/armeabi-v7a/libbattery_utils.so	f2651b91d730ff5e
