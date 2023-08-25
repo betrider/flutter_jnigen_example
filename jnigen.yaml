@@ -1,0 +1,17 @@
+android_sdk_config:
+  add_gradle_deps: true
+
+output:
+  c:
+    library_name: battery_utils
+    path: src/
+    subdir: battery_utils/
+  dart:
+    path: lib/battery_utils.dart
+    structure: single_file
+
+source_path:
+  - 'android/app/src/main/java'
+
+classes:
+  - 'com.battery.utils.BatteryUtils'

@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/swkim/flutter Project/flutter_jnigen_example/src/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/swkim/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/swkim/flutter Project/flutter_jnigen_example/android/app/.cxx/Debug/a4d5i414/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/swkim/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/swkim/flutter Project/flutter_jnigen_example/android/app/.cxx/Debug/a4d5i414/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "battery_utils::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "battery_utils",
+      "output": "/Users/swkim/flutter Project/flutter_jnigen_example/build/app/intermediates/cxx/Debug/a4d5i414/obj/x86/libbattery_utils.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/swkim/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/swkim/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

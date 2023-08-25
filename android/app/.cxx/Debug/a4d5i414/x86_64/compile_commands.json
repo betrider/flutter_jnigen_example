@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/swkim/flutter Project/flutter_jnigen_example/android/app/.cxx/Debug/a4d5i414/x86_64",
+  "command": "/Users/swkim/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/swkim/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/swkim/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDART_SHARED_LIB -Dbattery_utils_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/battery_utils.dir/battery_utils/battery_utils.c.o -c \"/Users/swkim/flutter Project/flutter_jnigen_example/src/battery_utils/battery_utils.c\"",
+  "file": "/Users/swkim/flutter Project/flutter_jnigen_example/src/battery_utils/battery_utils.c"
+}
+]

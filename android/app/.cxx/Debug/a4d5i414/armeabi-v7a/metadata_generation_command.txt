@@ -1,0 +1,18 @@
+                    -H/Users/swkim/flutter Project/flutter_jnigen_example/src
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=19
+-DANDROID_PLATFORM=android-19
+-DANDROID_ABI=armeabi-v7a
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DANDROID_NDK=/Users/swkim/Library/Android/sdk/ndk/23.1.7779620
+-DCMAKE_ANDROID_NDK=/Users/swkim/Library/Android/sdk/ndk/23.1.7779620
+-DCMAKE_TOOLCHAIN_FILE=/Users/swkim/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/swkim/Library/Android/sdk/cmake/3.18.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/swkim/flutter Project/flutter_jnigen_example/build/app/intermediates/cxx/Debug/a4d5i414/obj/armeabi-v7a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/swkim/flutter Project/flutter_jnigen_example/build/app/intermediates/cxx/Debug/a4d5i414/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/swkim/flutter Project/flutter_jnigen_example/android/app/.cxx/Debug/a4d5i414/armeabi-v7a
+-GNinja
+                    Build command args: []
+                    Version: 2
